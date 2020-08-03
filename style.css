@@ -1,0 +1,118 @@
+#navbarNavDropdown ul li a
+{
+    color: lightcoral;
+    font-size: 18px;
+  
+}
+
+.container
+{
+    margin-bottom: 100px;
+    
+}
+
+.buy-now-button
+{
+    text-decoration: none;
+    background-image: linear-gradient(#48d1cc,purple);
+    padding: 10px 15px;
+    color: whitesmoke;
+    font-weight: 700;
+    border-radius: 10px;
+    border-style: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.carousel-item
+{
+    padding: 10px 20px;
+}
+
+#bg-white
+{
+    background-color: white;
+}
+
+.price
+{
+    color: peru
+}
+
+.card
+{
+    border-radius: 10px;
+    border: none;
+    box-shadow: 5px 5px 20px gainsboro;
+}
+
+.card-footer
+{
+    background-color: white;
+    border-top: none;
+}
+
+.card
+{
+    text-align: center;
+}
+
+
+
+.carousel-bg1
+{
+    background-image: url(images/header-bg.png);
+    margin-top: 0px;
+   
+}
+
+.col-sm-6 img
+{
+   width: 100%;
+    height: auto;
+}
+
+.design
+{
+   
+    height:2px;
+    width:100px;
+    background-image: linear-gradient(orange,purple);
+}
+
+.bg-li
+{
+    background-image: linear-gradient(orange,red);
+}
+
+.title-end
+{
+    text-align: center;
+    margin: 0 auto 80px;
+    position: relative;
+    color: #555;
+    line-height: 60px;
+}
+ 
+.title-end::after
+{
+    content: '';
+    background: #ff523b;
+    width: 100px;
+    height: 5px;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.coloring
+{
+    color: orangered;
+}
+
+.padding
+{
+    margin-bottom: 25px;
+}
